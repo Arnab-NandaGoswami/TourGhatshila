@@ -1,4 +1,4 @@
-var folder = "videos/";
+var folder = "Videos/";
 screen_width = screen.width;
 num=0
 if(screen_width>=1000){
